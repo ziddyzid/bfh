@@ -1,0 +1,13 @@
+table{
+    font-family: Cochin;
+    border-collapse: separate;
+    width: 100%;
+    border-spacing: 5px;
+}
+th{
+    font-size: 20px;
+    border: 1px solid #dddddd;
+    padding: 8px;
+    color:blue;
+    background-color: azure;
+}
